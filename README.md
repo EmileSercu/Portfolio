@@ -3,7 +3,22 @@ Emile Sercu - Portfolio
 Projects:
 
 
-1) ROS2 Autonomous Robot | 12/25
+1)Shell construction (comming soon) | Started 6/26
+
+  Personal project. Experimenting with creating my own shell to help with debugging.
+  For now I am planning for this program to only handle preset instructions, when I get more comfortable I want to use it to debug and call on my excisting projects.
+
+  -UNDER CONSTRUCTION-
+  
+2)Ring buffer simulator (comming soon) | Started 6/26
+
+  Personal project. Experimenting with embedded systems. I'm creating a simulator to how an embedded system would read and write data between main code and an interrupt.
+
+  -UNDER CONSTRUCTION-
+  
+https://github.com/EmileSercu/Ring-Buffer
+
+3)  ROS2 Autonomous Robot | 12/25
 
   Fully autonomous robot, the robot can react differently to the colors that is sees and is embedded with PID controls to improve steering and speed.
 The robot is also equiped with a ball shooting device, when it sees a set color it will 'shoot' at it.
@@ -23,18 +38,5 @@ https://github.com/EmileSercu/Memory_Simulator
 
 https://github.com/EmileSercu/Pipelined_RISCV_Sim
 
-4) Ring buffer simulator (comming soon) | Started 6/26
 
-  Personal project. Experimenting with embedded systems. I'm creating a simulator to how an embedded system would read and write data between main code and an interrupt.
-
-  -UNDER CONSTRUCTION-
-  
-https://github.com/EmileSercu/Ring-Buffer
-
-5) Shell construction (comming soon) | Started 6/26
-
-  Personal project. Experimenting with creating my own shell to help with debugging.
-  For now I am planning for this program to only handle preset instructions, when I get more comfortable I want to use it to debug and call on my excisting projects.
-
-  -UNDER CONSTRUCTION-
    
