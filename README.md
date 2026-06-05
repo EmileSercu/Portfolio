@@ -28,6 +28,7 @@ https://github.com/EmileSercu/Pipelined_RISCV_Sim
   Personal project. Experimenting with embedded systems. I'm creating a simulator to how an embedded system would read and write data between main code and an interrupt.
 
   -UNDER CONSTRUCTION-
+https://github.com/EmileSercu/Ring-Buffer
 
 5) Shell construction (comming soon) | Started 6/26
 
